@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about virtual reality!
 - 📫 How to reach me: https://www.linkedin.com/in/nyalajackson/
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I 
+- ⚡ Fun fact: I love playing video games and watching youtube videos!
