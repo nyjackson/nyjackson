@@ -1,4 +1,4 @@
-### Hi, I'm Ny!👋
+### Hi, I'm Nyala!👋
 
 <!--
 **nyjackson/nyjackson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
