@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 
 
 -->
+- 🔭 Currently working on my coding skills via AlgoExpert.  
+- 🌱 Currently learning digital painting from Udemy.
 - 💼 Previously worked as a Backend Engineer at an AdTech SaaS company.
 - 📚 Previous internships in virtual reality education applications
-- 🔭 Currently working on my coding skills via AlgoExpert.  
-- 🌱 Currently learning digital painting from Udemy. 
 - 👯 I’m looking to collaborate on virtual reality, game development, and education technology!
 - 💬 Ask me about virtual reality!
 - 📫 How to reach me: https://www.linkedin.com/in/nyalajackson/
