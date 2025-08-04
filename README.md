@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 
 -->
-- 🔭 Currently working on my coding skills via AlgoExpert.  
+- 🔭 Currently attending the Software Development course from Per Scholas. 
 - 🌱 Recently attained by AWS Cloud Practitioneer and Solutions Architect certifications.
 - 💼 Previously worked as a Backend Engineer at an AdTech SaaS company.
 - 📚 Previous internships in virtual reality education applications.
