@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 
 
 -->
-- 🔭 Currently attending the Software Development course from Per Scholas. 
-- 🌱 Recently attained by AWS Cloud Practitioneer and Solutions Architect certifications.
+- 🔭 Currently working as a cloud + full stack engineer at a healthcare company.
+- 🌱 Recently attained ITF+/AWS Cloud Practitioneer/Solutions Architect certifications and completed the Full Stack Development course from Per Scholas. 
 - 💼 Previously worked as a Backend Engineer at an AdTech SaaS company.
 - 📚 Previous internships in virtual reality education applications.
 - 👯 I’m looking to collaborate on virtual reality, game development, and education technology!
